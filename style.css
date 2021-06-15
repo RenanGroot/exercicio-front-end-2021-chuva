@@ -39,3 +39,20 @@ li.nav-item{
 header{
   background-color: #fdf1eb;
 }
+
+#infos p{
+  color:#5c5c5c;
+  line-height: .9rem;
+  margin-bottom: .3rem;
+}
+#infos p.fw-light{
+  font-size: smaller;
+}
+
+#lang{
+  border: 1px solid grey;
+}
+
+.img-circle{
+  border-radius: 50%;
+}
